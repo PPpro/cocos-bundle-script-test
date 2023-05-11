@@ -1,0 +1,11 @@
+{
+  "name": "NewProject",
+  "type": "3d",
+  "uuid": "1c4066ca-d5b3-43cd-afb5-32b9bc64aa03",
+  "creator": {
+    "version": "3.8.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
